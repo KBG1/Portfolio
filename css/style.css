@@ -181,7 +181,7 @@ a {
 .progress-bar {
   width: 90%;
   height: 30px;
-  background-color: #34495E;
+  background-color: #1B263B;
   font-weight: 600;
   font-size: 0.8rem;
   border-radius: 22px;
@@ -210,7 +210,7 @@ a {
   text-align: center;
   padding: 0;
   margin: 0;
-  background-color: #3498DB;
+  background-color: #4CA1AF;
   border-radius: 22px;
 }
 
@@ -231,7 +231,7 @@ a {
 }
 
 .progress-jira {
-  width: 80%;
+  width: 90%;
 }
 
 .progress-notion {
@@ -239,7 +239,7 @@ a {
 }
 
 .progress-git {
-  width: 75%;
+  width: 90%;
 }
 
 .progress-figma {
